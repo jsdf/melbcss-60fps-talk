@@ -1,4 +1,4 @@
-# MelbCSS: Achieving and maintaining 60 fps
+# MelbCSS talk – Achieving and maintaining 60 fps
 
 Getting to 60fps:
 - http://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/
